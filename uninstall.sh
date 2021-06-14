@@ -3,8 +3,8 @@
 clear
 echo "Uninstalling..."
 sleep 2
-chmod a+x smspeak.py
-sudo cp smspeak.py /usr/lib/python3.6
+chmod a+x smspeak.pyc
+sudo cp smspeak.pyc /usr/lib/python3.6
 echo ""
 echo "Uninstalling..., Finish...!"
 echo ""
