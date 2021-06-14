@@ -23,4 +23,4 @@ smspeak.speak(word)
 
 [Instagram](https://instagram.com/programmer2938)
 
-[Pinterest](https://www.pinterest.com
+[Pinterest](https://www.pinterest.com/mrprogrammer2938)
